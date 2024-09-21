@@ -1,6 +1,4 @@
 import openvino as ov
-
-import ipywidgets as widgets
 import yaml
 
 import cv2 
